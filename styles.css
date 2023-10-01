@@ -17,7 +17,7 @@ html, body {
     margin: 0 auto; 
     display: grid;
     grid-template-columns: 70% 30%;
-    grid-template-rows: 300px 1180px 53px;
+    grid-template-rows: 21.57% 75.97% 2.46%;
 }
 
 .flex-container {
